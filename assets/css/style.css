@@ -1,6 +1,13 @@
+body{
+    background-color: gray;
+}
+
 /* Header Orange Bar */
 header{
     padding: 1em;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.2em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #df8815ad;
     background-image:url("../images/pexels-rakicevic-nenad-1262304.jpg");
@@ -28,11 +35,11 @@ header{
 .header h1::before {
     position:absolute;
     content: "";
-    top: 3.2em;
+    top: 3.28em;
     width: 11.4em;
-    height: 3px;
+    height: 5px;
     border-radius: 2px;
-    background: linear-gradient(0.6deg, black 25%, white 80%);
+    background: linear-gradient(0.7deg, black 25%, white 80%);
     z-index: -1;
 }
 
@@ -90,3 +97,30 @@ input.right{
         background-image: none;
     }
 }
+
+aside{
+    float:left;
+    background-color: #df8815ad;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.15em;
+    margin: 0.1em 0em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-display: block;
+    color: rgb(16, 11, 63);
+    text-shadow: 3px -1px lightslategray;
+    text-decoration: underline;
+}
+
+aside li{
+    padding: 1em;
+    border-style: solid;
+    list-style:none;
+}
+
+aside li:hover{
+    background-color:gray;
+    color:black;
+}
+

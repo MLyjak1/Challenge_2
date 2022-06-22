@@ -34,7 +34,9 @@ To be added
 
 - Fix top-Banner alignment/look
 - Change Color of Feedback button
-- Media Query for <input> to center it under certain width screen
+- Media Query for <input> to center it under certain width screens
+- Left Sidebar Add Content further down page and link to it
+- Add Media Query to srhink left sidebar?
 
 ## License Information:
 
@@ -59,4 +61,9 @@ To be added
     * Added Banner Picture to fill space at larger Screen sizes
     * Added media Queries to help displaying on mobile devices
 
-
+**0.2 - Left Sidebar Implementation**
+    * Added Sidebar Background
+    * Added Sidebar Border
+    * Added Text
+    * Added Text Underline Decoration
+    * Created Mouseover actions
