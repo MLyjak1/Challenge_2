@@ -34,9 +34,14 @@ To be added
 
 - Fix top-Banner alignment/look
 - Change Color of Feedback button
-- Media Query for <input> to center it under certain width screens
+- Make Feedback button do something
+- Media Query for button to center it under certain width screens
 - Left Sidebar Add Content further down page and link to it
-- Add Media Query to srhink left sidebar?
+- ?Add Media Query to srhink left sidebar?
+- Cards in Main Content section are not flexing smoothly
+- Need to add links to external websites and placeholders for ones not created yet
+- ?Possibly add "Click here:" instructions to cards?
+- Need to make everything Tab-able
 
 ## License Information:
 
@@ -53,6 +58,7 @@ To be added
     * Filled out introductory information in README.md
 
 **0.1 - Header Implementation**
+    
     * Added header background
     * Added header Text
     * Added Border around Text
@@ -60,10 +66,24 @@ To be added
     * Added Feedback button to right of the header
     * Added Banner Picture to fill space at larger Screen sizes
     * Added media Queries to help displaying on mobile devices
+    * Added comments to CSS sections
 
 **0.2 - Left Sidebar Implementation**
+    
     * Added Sidebar Background
     * Added Sidebar Border
     * Added Text
     * Added Text Underline Decoration
     * Created Mouseover actions
+    * Added Comments to CSS sections
+
+**0.3 - Main Content Panels Implementation**
+    
+    * Created Main section to contain Program Cards
+    * Added images to Cards
+    * Added Description Headers to Cards
+    * Added description text to cards
+    * Adjusted flexing and Padding to attempt to maintain equi-distance between cards
+    * Set up media query to remove images
+    * set up media query to reduce header font size
+    * Added Comments to CSS

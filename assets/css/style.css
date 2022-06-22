@@ -98,6 +98,7 @@ input.right{
     }
 }
 
+/* Left Siderbar for Internal Links */
 aside{
     float:left;
     background-color: #df8815ad;
@@ -113,14 +114,59 @@ aside{
     text-decoration: underline;
 }
 
+/* Formatting for Left Sidebar */
 aside li{
     padding: 1em;
     border-style: solid;
     list-style:none;
 }
 
+/* Hover color-change for left sidebar */
 aside li:hover{
     background-color:gray;
     color:black;
 }
 
+/* Primary content box holding all the Project Cards */
+main {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #df8815ad;
+    margin:0.2em 20em;
+    border-style: solid;
+    border-color: black;
+    border: 2em 2em 2em 2em;
+    border-width:0.4em;
+}
+
+/* Modifiers for Individual Card Sizing */
+main section{
+    max-width: 33%;
+    padding:8%;
+    border-style: solid;
+    border-color: black;
+    border-width:0.3em;
+}
+
+/* Equalize Image Sizes */
+img{
+    width:300px;
+    height:300px;
+}
+
+/* Remove Images when Screen Width gets too small */
+@media screen and (max-width: 1500px) {
+    img{
+        display:none;
+    }
+}
+
+/* Decrease Header font size when screen gets too small */
+@media screen and (max-width: 980px) {
+    h2{
+        font-size:medium;
+        float:left;
+    }
+}
