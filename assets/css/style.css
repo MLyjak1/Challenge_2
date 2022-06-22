@@ -127,6 +127,25 @@ aside li:hover{
     color:black;
 }
 
+/* Left Side Biography Panel */
+article{
+    float:right;
+    width:18em;
+    background-color: #df8815ad;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.4em;
+    margin-top: 0.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+/* Image specifically for Bio */
+article img{
+    width:200px;
+    height:200px
+}
+
 /* Primary content box holding all the Project Cards */
 main {
     display:flex;
@@ -170,3 +189,4 @@ img{
         float:left;
     }
 }
+

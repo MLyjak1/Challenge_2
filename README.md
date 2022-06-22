@@ -87,3 +87,13 @@ To be added
     * Set up media query to remove images
     * set up media query to reduce header font size
     * Added Comments to CSS
+
+**0.4 - Left Sidebar Bio Implementation**
+
+    * Added background for Left Sidebar
+    * Matched Border to other Borders on the page
+    * Added Image
+    * Added Biographical Text
+    * Tested with mobile view to ensure img still disappears at proper width
+    * Added Comments for Bio panel in CSS
+    * Updated Readme
