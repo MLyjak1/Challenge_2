@@ -35,13 +35,13 @@ To be added
 - Fix top-Banner alignment/look
 - Change Color of Feedback button
 - Make Feedback button do something
-- Media Query for button to center it under certain width screens
+- Media Query for feed back button to center it under certain width screens
 - Left Sidebar Add Content further down page and link to it
 - ?Add Media Query to srhink left sidebar?
 - Cards in Main Content section are not flexing smoothly
 - Need to add links to external websites and placeholders for ones not created yet
 - ?Possibly add "Click here:" instructions to cards?
-- Need to make everything Tab-able
+- Add Same Color Change to left sidebar when tabbing?
 
 ## License Information:
 
@@ -106,3 +106,13 @@ To be added
     * Added text
     * Bolded 'Contact Info:' in HTML
     * Set Margins in CSS
+
+**0.6 - Pre-Release Testing, Clean-up and Turn-in**
+    * Removed Unused Font call at beginning of HTML
+    * Removed unused Class designations in HTML
+    * Added tabindex to all elements
+    * Purposefully left javascript call for future editions
+    * Removed Commented out CSS Lines
+    * Tested Screen Reader
+    * Tested Mobile View
+    * Updated Readme

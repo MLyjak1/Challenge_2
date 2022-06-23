@@ -43,17 +43,6 @@ header{
     z-index: -1;
 }
 
-/* .banner{
-    display:inline;
-    
-}
-
-.header img{
-    width:50%;
-    height:150px;
-    padding-top:2em
-} */
-
 input.right{
     float:right;
     margin-top: 2.5em;
@@ -189,6 +178,8 @@ img{
         float:left;
     }
 }
+
+/* Bottom Contact Info Formatting */
 footer{
     line-height: 0%;
     border-style: dotted;
