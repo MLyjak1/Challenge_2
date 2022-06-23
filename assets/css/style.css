@@ -184,5 +184,6 @@ footer{
     line-height: 0%;
     border-style: dotted;
     background-color: antiquewhite;
-    margin: 0.2em 61em;
+    margin:0em 45%;
+    min-width:13em;
 }

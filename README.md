@@ -24,11 +24,15 @@ The current iteration of this project contains a header displaying general infor
 
 ## Description:
 
-To be Added
+https://mlyjak1.github.io/Challenge_2/
+This page show current and former webpage projects completed by the client, Matthew Lyjak.  This page containts general information on the client that is linked in the left side bar.  These will link internally to information further down the page in future implementations.  The main content section contains cards for current and former projects.  Future Implementations will link to the actual pages as they are developed.  The right sidebar contains a picture of the client along with a brief biography.  Finally there is a footer with (currently fake) contact information.
+
+![](assets/images/Challenge%202%20Screenshot.png)
 
 ## Instructions for Future Developers:
 
-To be added
+-- Add content and links for left side bar
+- Add links to Main content cards for websites created.
 
 ## Known Bugs/Future Additions:
 
