@@ -107,7 +107,7 @@ To be added
     * Bolded 'Contact Info:' in HTML
     * Set Margins in CSS
 
-**0.6 - Pre-Release Testing, Clean-up and Turn-in**
+**0.6 - Pre-Release Testing, Clean-up, and Turn-in**
     * Removed Unused Font call at beginning of HTML
     * Removed unused Class designations in HTML
     * Added tabindex to all elements
