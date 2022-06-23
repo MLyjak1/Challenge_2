@@ -189,4 +189,9 @@ img{
         float:left;
     }
 }
-
+footer{
+    line-height: 0%;
+    border-style: dotted;
+    background-color: antiquewhite;
+    margin: 0.2em 61em;
+}

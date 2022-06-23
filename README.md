@@ -97,3 +97,12 @@ To be added
     * Tested with mobile view to ensure img still disappears at proper width
     * Added Comments for Bio panel in CSS
     * Updated Readme
+
+**0.5 - Footer Contact Info Implementation**
+
+    * Added Footer Section
+    * Created Dotted Border
+    * Changed Background Color to white
+    * Added text
+    * Bolded 'Contact Info:' in HTML
+    * Set Margins in CSS
